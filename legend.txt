@@ -1,0 +1,10 @@
+data1.csv	EUR_USD Historical Data
+data2.csv	GBP_USD Historical Data
+data3.csv	BTC_USD Bitfinex Historical Data
+data4.csv	LTC_EUR Kraken Historical Data
+data5.csv	S&P 500 Historical Data
+data6.csv	FTSE 100 Historical Data
+data7.csv	Platinum Futures Historical Data
+data8.csv	Gold Futures Historical Data
+data9.csv	Silver Futures Historical Data
+data10.csv	Copper Futures Historical Data
